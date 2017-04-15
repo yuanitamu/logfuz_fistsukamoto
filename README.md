@@ -1,1 +1,0 @@
-# logfuz_fistsukamoto
