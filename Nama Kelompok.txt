@@ -1,3 +1,8 @@
+merupakan aplikasi berbasis java untuk penentuan pembelian smartphone dengan menggunakan 
+metode fis tsukamoto. aplikasi ini dibuat untuk membantu
+customer dalam memilih smartphone yang diinginkan berdasarkan beberapa pertimbangan, yaitu 
+dari segi harga, memori internal, kamera, dan RAM-nya.
+
 Rizky Salsabella - 125150201111016
 Yuanita Muharyani Utami - 125150201111017
 Zahra Swastika Putri - 125150201111025
